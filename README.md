@@ -27,6 +27,13 @@ Changing the ID for an app:
 | ![Screenshot_20230121_193807.png](Screenshot_20230121_193807.png) | ![Screenshot_20230120_185430.png](Screenshot_20230120_185430.png) | ![Screenshot_20230120_185453.png](Screenshot_20230120_185453.png) |
 |---|---|---|
 
+## Report an issue
+
+You can send an email from the app with the application logs, `settings_ssaid.xml` file, and some device information that could help identify and fix the issue. 
+1. Click on the info icon at the top right corner and then click on the "Report an issue" button. 
+2. Choose your email client, and write a message if you have something to add. 
+3. Send the email. 
+
 ## Technical details
 
 Starting from Android 8.0 the system creates a unique ID for each application when it's requested:
