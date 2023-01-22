@@ -10,6 +10,9 @@ Anything you do is at your own risk. No one else is responsible for any data los
 
 ## Usage 
 
+**Backup the file `/data/system/users/0/settings_ssaid.xml`. \
+Corrupting this file may end up in a bootloop. Make sure you can recover the device beforehand.** 
+
 The app is tested on Android 12, and 13 with Magisk 25.2.
 
 Changing the ID for an app: 
@@ -29,9 +32,9 @@ Changing the ID for an app:
 Starting from Android 8.0 the system creates a unique ID for each application when it's requested:
 
 ```kotlin
-val androidId = android.provider.Settings.Secure.getString(  
+val androidId = Settings.Secure.getString(  
     context.contentResolver,  
-    android.provider.Settings.Secure.ANDROID_ID  
+    Settings.Secure.ANDROID_ID  
 )
 ```
 
