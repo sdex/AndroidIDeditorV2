@@ -29,8 +29,8 @@ Changing the ID for an app:
 
 ## Report an issue
 
-You can send an email from the app with the application logs, `settings_ssaid.xml` file, and some device information that could help identify and fix the issue. 
-1. Click on the info icon at the top right corner and then click on the "Report an issue" button. 
+You can send an email from the app with the application logs, `settings_ssaid.xml` file, and some device information that could help identify and fix the issue:
+1. Click on the three dots icon at the top right corner and then select the "Report an issue". 
 2. Choose your email client, and write a message if you have something to add. 
 3. Send the email. 
 
