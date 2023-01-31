@@ -1,4 +1,4 @@
-# Android ID editor for Android 12+
+# Device ID changer for Android 12+
 
 I'm working on the app that changes the IDs using root permission. Right now it's available only for supporters. \
 To get the app please follow the instructions on this page: \
