@@ -2,7 +2,7 @@
 
 I'm working on the app that changes the IDs using root permission. Right now it's available only for supporters. \
 To get the app please follow the instructions on this page: \
-https://www.buymeacoffee.com/sdex/android-id-editor-android-12
+https://bit.ly/device_changer
 
 ## Denial of responsibility
 
