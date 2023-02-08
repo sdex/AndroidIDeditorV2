@@ -1,3 +1,8 @@
+## 1.3
+- quickly copy the ID to the clipboard
+- backup/restore the ID for any app
+- add shortcut to open the app info screen
+
 ## 1.2
 - export IDs to a CSV file
 
