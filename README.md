@@ -1,8 +1,17 @@
 # Device ID changer for Android 12+
 
-I'm working on the app that changes the IDs using root permission. Right now it's available only for supporters. \
-To get the app please follow the instructions on this page: \
-https://bit.ly/device_changer
+**The Android application changes Android device ID values using root permission.**
+
+The app is available as one-time purchase: 
+- [buymeacoffee.com](http://bit.ly/3YKEt01) (free for supporters)
+
+## Features
+- List all applications with their personal Device ID
+- Change the ID for a particular application
+- Built-in random ID generator
+- Validate the ID to prevent a potential system corruption
+- Copy/Backup/Restore the device ID
+- Export the applications list with IDs to a CSV file
 
 ## Denial of responsibility
 
