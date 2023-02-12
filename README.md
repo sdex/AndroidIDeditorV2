@@ -4,7 +4,7 @@
 
 The app is available as one-time purchase: 
 - [buymeacoffee.com](http://bit.ly/3YKEt01) (free for supporters)
-- [gumroad.com](https://sdex.gumroad.com/l/changer)
+- [gumroad.com](http://bit.ly/3RXsSbY)
 
 ## Features
 - List all applications with their personal Device ID
