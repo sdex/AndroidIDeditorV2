@@ -34,7 +34,7 @@ Changing the ID for an app:
 6. Repeat steps 3-5 for other apps if need to. 
 7. Reboot your device to apply the changes. 
 
-| ![Screenshot_20230121_193807.png](Screenshot_20230121_193807.png) | ![Screenshot_20230120_185430.png](Screenshot_20230120_185430.png) | ![Screenshot_20230120_185453.png](Screenshot_20230120_185453.png) |
+| ![Screenshot_20230225_081840.png](Screenshot_20230225_081840.png) | ![Screenshot_20230225_083431.png](Screenshot_20230225_083431.png) | ![Screenshot_20230225_083454.png](Screenshot_20230225_083454.png) |
 |---|---|---|
 
 ## Report an issue
