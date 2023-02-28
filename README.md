@@ -4,7 +4,7 @@
 
 ## Get the app
 
-Download the demo app from github: [download](https://github.com/sdex/AndroidIDeditorV2/releases/tag/demo)
+Download the demo app from github: [download](https://github.com/sdex/AndroidIDeditorV2/releases/download/demo/AndroidIDeditorV2-demo.apk)
 
 The full-featured app is available as one-time purchase: 
 - [buymeacoffee.com](http://bit.ly/3YKEt01) (free for supporters)
