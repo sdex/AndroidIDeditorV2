@@ -2,7 +2,11 @@
 
 **The Android application changes Android device ID values using root permission.**
 
-The app is available as one-time purchase: 
+## Get the app
+
+Download the demo app from github: [download](https://github.com/sdex/AndroidIDeditorV2/releases/tag/demo)
+
+The full-featured app is available as one-time purchase: 
 - [buymeacoffee.com](http://bit.ly/3YKEt01) (free for supporters)
 - [gumroad.com](http://bit.ly/3RXsSbY)
 
