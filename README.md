@@ -65,7 +65,7 @@ The OS stores all these IDs in a special file located at:
 /data/system/users/0/settings_ssaid.xml
 ```
 
-Prior to Android 12, the file was in XML format. In Android 12 the system started to use a special binary format to store the data. \
+Prior to Android 12, the file was in XML format. In Android 12 the system started to use a special binary format to store the data. 
 More information you can find in these articles: \
 [Read and edit Android Binary XML (ABX) files](https://blog.sdex.dev/ABX/) \
 [Android ABX – Binary XML](https://www.cclsolutionsgroup.com/post/android-abx-binary-xml) \
