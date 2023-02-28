@@ -7,7 +7,7 @@
 - export IDs to a CSV file
 
 ## 1.1
-- improve editing system ID
+- improve editing the system ID
 - add an option to reboot the device
 
 ## 1.0 
