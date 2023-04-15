@@ -8,7 +8,7 @@ Download the demo app from github: [AndroidIDeditorV2-demo.apk](https://github.c
 
 The full-featured app is available as one-time purchase: 
 - [gumroad.com](http://bit.ly/3RXsSbY)
-- [buymeacoffee.com](http://bit.ly/3YKEt01) (free for members)
+- [buymeacoffee.com](http://bit.ly/3YKEt01)
 
 ## Features
 - List all applications with their personal Device ID
