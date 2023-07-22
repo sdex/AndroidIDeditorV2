@@ -4,9 +4,9 @@
 
 ## Get the app
 
-Download the demo app from github: [AndroidIDeditorV2-demo.apk](https://github.com/sdex/AndroidIDeditorV2/releases/tag/demo)
+Download the demo app: [AndroidIDeditorV2-demo.apk](https://github.com/sdex/AndroidIDeditorV2/releases/tag/demo)
 
-The full-featured app is available as one-time purchase: 
+The full-featured app is available as a one-time purchase: 
 - [buymeacoffee.com](http://bit.ly/3YKEt01)
 - [gumroad.com](http://bit.ly/3RXsSbY)
 
@@ -30,8 +30,8 @@ Corrupting this file may end up in a bootloop. Make sure you can recover the dev
 The app is tested on Android 12, and 13 with Magisk 25.2.
 
 Changing the ID for an app: 
-1. Install "Android ID editor V2" app.
-2. Launch the editor and grant superuser permission. 
+1. Install the "AndroidIDeditorV2" app.
+2. Launch the editor and grant the superuser permission. 
 3. Choose an app you want to edit the ID from the list. 
 4. Enter a new ID or generate a random one. The ID must contain 16 digits or letters from A to F. It's case-insensitive. 
 5. Click "Save" to write the new ID. 
@@ -43,8 +43,8 @@ Changing the ID for an app:
 
 ## Report an issue
 
-You can send an email from the app with the application logs, `settings_ssaid.xml` file, and some device information that could help identify and fix the issue:
-1. Click on the three dots icon at the top right corner and then select the "Report an issue". 
+You can send an email from the app with the application logs, the `settings_ssaid.xml` file, and some device information that could help identify and fix the issue:
+1. Click on the three dots icon at the top right corner and then select "Report an issue". 
 2. Choose your email client, and write a message if you have something to add. 
 3. Send the email. 
 
