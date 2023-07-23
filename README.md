@@ -1,4 +1,4 @@
-# Device ID changer for Android 12+
+# Device ID changer for Android
 
 **The Android application changes Android device ID values using root permission.**
 
@@ -27,7 +27,7 @@ Anything you do is at your own risk. No one else is responsible for any data los
 **Backup the file `/data/system/users/0/settings_ssaid.xml`. \
 Corrupting this file may end up in a bootloop. Make sure you can recover the device beforehand.** 
 
-The app is tested on Android 12, and 13 with Magisk 25.2.
+The app is tested on Android 8-13.
 
 Changing the ID for an app: 
 1. Install the "AndroidIDeditorV2" app.
