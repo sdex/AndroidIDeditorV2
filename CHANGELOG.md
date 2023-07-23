@@ -1,7 +1,15 @@
+## 1.5
+- add support for Android below 12
+- add compatibility with some custom ROMs
+
+## 1.4
+- fix minor UI issues
+- improve bug reporting
+
 ## 1.3
 - quickly copy the ID to the clipboard
 - backup/restore the ID for any app
-- add shortcut to open the app info screen
+- add a shortcut to open the app info screen
 
 ## 1.2
 - export IDs to a CSV file
