@@ -50,7 +50,7 @@ You can send an email from the app with the application logs, the `settings_ssai
 
 ## Technical details
 
-Starting from Android 8.0 the system creates a unique ID for each application when it's requested:
+Starting from Android 8.0 the system creates a unique ID for each application when it's requested using:
 
 ```kotlin
 val androidId = Settings.Secure.getString(  
@@ -65,7 +65,7 @@ The OS stores all these IDs in a special file located at:
 /data/system/users/0/settings_ssaid.xml
 ```
 
-Prior to Android 12, the file was in XML format. In Android 12 the system started to use a special binary format to store the data. 
+Prior to Android 12, the file was in XML format, in Android 12 the system started to use a special binary format to store the data. \
 More information you can find in these articles: \
 [How to change ANDROID_ID on Android 8+ (Oreo) with ROOT](https://medium.com/@sdex/how-to-change-android-id-on-oreo-with-root-a71ebbc38cec) \
 [Read and edit Android Binary XML (ABX) files](https://blog.sdex.dev/ABX/) \
