@@ -38,7 +38,7 @@ Back up the file `/data/system/users/0/settings_ssaid.xml`.
 6. Repeat steps 3-5 for other apps if need to. 
 7. Reboot your device to apply the changes. 
 
-| ![screenshots/Screenshot_20230225_081840.png](Screenshot_20230225_081840.png) | ![screenshots/Screenshot_20230225_083431.png](Screenshot_20230225_083431.png) | ![screenshots/Screenshot_20230225_083454.png](Screenshot_20230225_083454.png) |
+| ![Screenshot_20230225_081840.png](screenshots/Screenshot_20230225_081840.png) | ![Screenshot_20230225_083431.png](screenshots/Screenshot_20230225_083431.png) | ![Screenshot_20230225_083454.png](screenshots/Screenshot_20230225_083454.png) |
 |---|---|---|
 
 ## Report an issue
