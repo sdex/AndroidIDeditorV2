@@ -6,11 +6,11 @@
 
 ## Get the app
 
-Download the app: [AndroidIDeditorV2-demo.apk](https://github.com/sdex/AndroidIDeditorV2/releases/tag/demo)
-
 The full-featured app is available as a one-time purchase: 
 - [buymeacoffee.com](http://bit.ly/3YKEt01)
 - [gumroad.com](http://bit.ly/3RXsSbY)
+
+Download the app: [AndroidIDeditorV2-demo.apk](https://github.com/sdex/AndroidIDeditorV2/releases/tag/demo)
 
 ## Features
 - List all applications with their personal Device ID
