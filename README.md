@@ -26,8 +26,7 @@ Anything you do is at your own risk. No one else is responsible for any data los
 
 ## Backup
 
-Backup the file `/data/system/users/0/settings_ssaid.xml`. \
-Corrupting this file may end up in a bootloop. Make sure you can recover the device beforehand.** 
+Back up the file `/data/system/users/0/settings_ssaid.xml`.
 
 ## Usage 
 
