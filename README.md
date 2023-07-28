@@ -10,8 +10,6 @@ The full-featured app is available as a one-time purchase:
 - [buymeacoffee.com](http://bit.ly/3YKEt01)
 - [gumroad.com](http://bit.ly/3RXsSbY)
 
-Download the demo: [AndroidIDeditorV2-demo.apk](https://github.com/sdex/AndroidIDeditorV2/releases/tag/demo)
-
 ## Features
 - List all applications with their personal Device ID
 - Change the ID for a particular application
