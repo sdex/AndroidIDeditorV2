@@ -24,12 +24,13 @@ The full-featured app is available as a one-time purchase:
 
 Anything you do is at your own risk. No one else is responsible for any data loss, corruption, or damage to your device, including that which results from bugs in this software. There is a nonzero chance of any of these events happening due to using the tools or methods here. Always make backups. 
 
-## Usage 
+## Backup
 
-**Backup the file `/data/system/users/0/settings_ssaid.xml`. \
+Backup the file `/data/system/users/0/settings_ssaid.xml`. \
 Corrupting this file may end up in a bootloop. Make sure you can recover the device beforehand.** 
 
-Changing the ID for an app: 
+## Usage 
+
 1. Install the "AndroidIDeditorV2" app.
 2. Launch the editor and grant the superuser permission. 
 3. Choose an app you want to edit the ID from the list. 
