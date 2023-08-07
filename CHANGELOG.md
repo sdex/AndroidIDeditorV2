@@ -1,6 +1,6 @@
 ## 1.5
 - add support for Android below 12
-- add compatibility with some custom ROMs
+- fix compatibility with some custom ROMs
 
 ## 1.4
 - fix minor UI issues
