@@ -1,3 +1,6 @@
+## 1.6
+- improve error handling and validation
+
 ## 1.5
 - add support for Android below 12
 - fix compatibility with some custom ROMs
