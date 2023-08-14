@@ -1,3 +1,6 @@
+## 2.0 
+- add Android 14 support
+
 ## 1.6
 - improve error handling and validation
 
