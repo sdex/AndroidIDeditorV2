@@ -8,7 +8,6 @@
 
 The full-featured app is available as a one-time purchase: 
 - [buymeacoffee.com](http://bit.ly/3YKEt01)
-- [gumroad.com](http://bit.ly/3RXsSbY)
 
 ## Features
 - List all applications with their personal Device ID
