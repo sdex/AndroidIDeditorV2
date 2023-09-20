@@ -10,6 +10,10 @@ The full-featured app is available as a one-time purchase:
 - [buymeacoffee.com](http://bit.ly/3YKEt01)
 - [Pay with crypto](https://github.com/sdex/AndroidIDeditorV2/blob/main/FAQ.md#other-payment-methods)
 
+## Other versions
+
+[The app version suitable for automation](https://github.com/sdex/AndroidIDeditorV2/blob/main/FAQ.md#automation-api)
+
 ## Features
 - List all applications with their personal Device ID
 - Change the ID for a particular application
