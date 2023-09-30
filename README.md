@@ -7,8 +7,10 @@
 ## Get the app
 
 The full-featured app is available as a one-time purchase: 
-- [buymeacoffee.com](http://bit.ly/3YKEt01)
-- [Pay with crypto](https://github.com/sdex/AndroidIDeditorV2/blob/main/FAQ.md#other-payment-methods)
+- [Pay $3 on buymeacoffee.com](http://bit.ly/3YKEt01)
+- [Pay 3 USDT/USDC/BUSD](https://oxapay.com/donate/66497180)
+
+The link to download the app will be sent to the specified email after processing the transaction.
 
 ## Other versions
 
