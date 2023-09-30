@@ -6,7 +6,7 @@
 
 ## Get the app
 
-The full-featured app is available as a one-time purchase: 
+The app is available as a one-time purchase: 
 - [Pay $3 on buymeacoffee.com](http://bit.ly/3YKEt01)
 - [Pay 3 USDT/USDC/BUSD](https://oxapay.com/donate/66497180)
 
