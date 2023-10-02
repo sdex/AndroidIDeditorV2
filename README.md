@@ -4,18 +4,6 @@
 
 **The app supports Android 8.0 Oreo and above**
 
-## Get the app
-
-The app is available as a one-time purchase: 
-- [Pay $3 on buymeacoffee.com](http://bit.ly/3YKEt01)
-- [Pay 3 USDT/USDC/BUSD](https://oxapay.com/donate/66497180)
-
-The link to download the app will be sent to the specified email after processing the transaction.
-
-## Other versions
-
-[The app version suitable for automation](https://github.com/sdex/AndroidIDeditorV2/blob/main/FAQ.md#automation-api)
-
 ## Features
 - List all applications with their personal Device ID
 - Change the ID for a particular application
@@ -23,6 +11,18 @@ The link to download the app will be sent to the specified email after processin
 - Validate the ID to prevent a potential system corruption
 - Copy/Backup/Restore the device ID
 - Export the applications list with IDs to a CSV file
+
+## Get the app
+
+The app is available as a one-time purchase: 
+- [Get for $3 on buymeacoffee.com](http://bit.ly/3YKEt01)
+- [Get for 3 USDT/USDC/BUSD](https://oxapay.com/donate/66497180)
+
+The link to download the app will be sent to the specified email after processing the transaction.
+
+## Other versions
+
+[The app version suitable for automation](https://github.com/sdex/AndroidIDeditorV2/blob/main/FAQ.md#automation-api)
 
 ## Denial of responsibility
 
