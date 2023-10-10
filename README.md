@@ -1,6 +1,6 @@
 # Device ID Changer for Android
 
-**The Android application changes Android device ID values using root permission.**
+**The Android application to change Android device ID values using root permission.**
 
 **The app supports Android 8.0 Oreo and above**
 
