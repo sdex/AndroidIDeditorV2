@@ -22,7 +22,7 @@ The link to download the app will be sent to the specified email after processin
 
 ## Other versions
 
-[The app version suitable for automation](https://github.com/sdex/AndroidIDeditorV2/blob/main/FAQ.md#automation-api)
+[Custom build](https://github.com/sdex/AndroidIDeditorV2/blob/main/FAQ.md#custom-build)
 
 ## Denial of responsibility
 
