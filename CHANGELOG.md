@@ -1,3 +1,6 @@
+## 2.1
+- fix for OnePlus devices
+
 ## 2.0 
 - add Android 14 support
 
