@@ -2,7 +2,7 @@
 
 **The Android application to change Android device ID values using root permission.**
 
-**The app supports Android 8.0 Oreo and above**
+**The app supports all Android versions from 8 to 14**
 
 ## Features
 - List all applications with their personal Device ID
