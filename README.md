@@ -69,7 +69,7 @@ The OS stores all these IDs in a special file located at:
 /data/system/users/0/settings_ssaid.xml
 ```
 
-Prior to Android 12, the file was in XML format, in Android 12 the system started to use a special binary format to store the data. \
+Prior to Android 12, the file was in XML format, in Android 12 the system started to use a special binary format to store the data. 
 
 ## More information
 
