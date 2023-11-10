@@ -1,6 +1,6 @@
 ### Pay with crypto
 You can pay in USDT, USDC, or BUSD equivalent of $3 or more: \
-https://bit.ly/idchangercrypto
+[Open payment page](https://bit.ly/idchangercrypto)
 
 The download link will be sent to the specified email after processing the transaction. 
 
