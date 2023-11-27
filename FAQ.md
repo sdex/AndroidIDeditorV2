@@ -2,7 +2,9 @@
 You can pay in USDT, USDC, or BUSD equivalent of $3 or more: \
 [Open payment page](https://bit.ly/idchangercrypto)
 
-The download link will be sent to the specified email after processing the transaction. 
+The download link will be sent to the specified email after processing the transaction. Note: 
+- sometimes the processing time may take up to 20 minutes
+- transactions with less than $3 will be ignored
 
 ### Custom build
 If you have special or unique requirements and the app doesn't fully meet your needs it's possible to have a customized app build. \
