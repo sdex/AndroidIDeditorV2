@@ -5,10 +5,3 @@ You can pay in USDT, USDC, or BUSD equivalent of $3 or more: \
 The download link will be sent to the specified email after processing the transaction. Note: 
 - sometimes the processing time may take up to 20 minutes
 - transactions with less than $3 will be ignored
-
-### Custom build
-If you have special or unique requirements and the app doesn't fully meet your needs it's possible to have a customized app build. \
-For instance, a version of the app that exposes changing IDs API to other tools. The API can be used to change ID from 3rd party apps (like Tasker), using ADB, shell, or from your application to automate ID changing. 
-
-The custom version of the app costs $300, contact me using this form: \
-https://sdex.dev/contact/
