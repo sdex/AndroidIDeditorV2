@@ -20,10 +20,6 @@ The app is available as a one-time purchase:
 
 The link to download the app will be sent to the specified email.
 
-## Other versions
-
-[Custom build](https://github.com/sdex/AndroidIDeditorV2/blob/main/FAQ.md#custom-build)
-
 ## Denial of responsibility
 
 Anything you do is at your own risk. No one else is responsible for any data loss, corruption, or damage to your device, including that which results from bugs in this software. There is a nonzero chance of any of these events happening due to using the tools or methods here. Always make backups. 
