@@ -1,11 +1,11 @@
-# Device ID Changer for Android
+# Device ID Changer for Android [ROOT]
 
 **The Android application to change Android device ID values using root permission.**
 
 **The app supports all Android versions from 8 to 14**
 
 ## Features
-- List all applications with their personal Device ID
+- List all applications with their Device ID
 - Change the ID for a particular application
 - Built-in random ID generator
 - Validate the ID to prevent a potential system corruption
@@ -65,7 +65,7 @@ The OS stores all these IDs in a special file located at:
 /data/system/users/0/settings_ssaid.xml
 ```
 
-Prior to Android 12, the file was in XML format, in Android 12 the system started to use a special binary format to store the data. 
+Before Android 12, the file was in XML format, in Android 12 the system started to use a special binary format to store the data. 
 
 ## More information
 
