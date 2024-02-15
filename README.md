@@ -22,7 +22,7 @@ The link to download the app will be sent to the specified email.
 
 ## Demo app
 
-The demo app is available to check compatibility. 
+The demo app is available to check compatibility. \
 [Read more and download](https://github.com/sdex/AndroidIDeditorV2/releases)
 
 ## Denial of responsibility
