@@ -4,14 +4,6 @@
 
 **The app supports all Android versions from 8 to 14**
 
-## Features
-- List all applications with their Device ID
-- Change the ID for a particular application
-- Built-in random ID generator
-- Validate the ID to prevent a potential system corruption
-- Copy/Backup/Restore the device ID
-- Export the applications list with IDs to a CSV file
-
 ## Get the app
 
 The app is available as a one-time purchase: 
@@ -24,6 +16,14 @@ The link to download the app will be sent to the specified email.
 
 The demo app is available to check compatibility. \
 [Read more and download](https://github.com/sdex/AndroidIDeditorV2/releases)
+
+## Features
+- List all applications with their Device ID
+- Change the ID for a particular application
+- Built-in random ID generator
+- Validate the ID to prevent a potential system corruption
+- Copy/Backup/Restore the device ID
+- Export the applications list with IDs to a CSV file
 
 ## Denial of responsibility
 
