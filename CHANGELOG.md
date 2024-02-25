@@ -1,3 +1,7 @@
+## 2.2
+- add search
+- misc bug fixes
+
 ## 2.1
 - fix for OnePlus devices
 
