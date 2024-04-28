@@ -7,5 +7,5 @@ The download link will be sent to the specified email after processing the trans
 - transactions with less than $3 will be ignored
 
 ### Is it possible to change the application ID without restarting the device? 
-Yes, I have a special app build that supports it. \
-I am selling it separately. It costs 100 USDT, for this purchase only crypto is accepted. 
+Yes, I have a special app build that supports it on **Android 10, 11, and 12**. \
+It's sold separately. It costs 100 USDT, for this purchase only crypto is accepted. 
