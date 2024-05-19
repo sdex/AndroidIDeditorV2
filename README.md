@@ -18,12 +18,17 @@ The demo app is available to check compatibility. \
 [Read more and download](https://github.com/sdex/AndroidIDeditorV2/releases)
 
 ## Features
+
 - List all applications with their Device ID
 - Change the ID for a particular application
 - Built-in random ID generator
 - Validate the ID to prevent a potential system corruption
 - Copy/Backup/Restore the device ID
 - Export the applications list with IDs to a CSV file
+
+## Extra features
+
+- [Change ID without reboot](https://github.com/sdex/AndroidIDeditorV2/blob/main/FAQ.md#is-it-possible-to-change-the-application-id-without-restarting-the-device)
 
 ## Denial of responsibility
 
