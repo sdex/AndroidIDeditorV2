@@ -7,6 +7,6 @@ The download link will be sent to the specified email after processing the trans
 - transactions with less than $3 will be ignored
 
 ### Change ID without reboot
-Change ID without reboot works only on **Android 10, 11, and 12**. \
+Changing ID without reboot works only on **Android 10, 11, and 12**. \
 The build is sold separately and costs 100 USDT, and for this purchase only crypto is accepted: \
 [Open payment page](https://bit.ly/idchangercrypto)
