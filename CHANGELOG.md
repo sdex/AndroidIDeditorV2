@@ -1,3 +1,6 @@
+## 2.3
+- misc bug fixes
+
 ## 2.2
 - add search
 - misc bug fixes
