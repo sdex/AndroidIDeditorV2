@@ -28,7 +28,7 @@ The demo app is available to check compatibility. \
 
 ## Extra features
 
-- [Change ID without reboot](https://github.com/sdex/AndroidIDeditorV2/blob/main/FAQ.md#change-id-without-reboot)
+- [Change ID without reboot](https://github.com/sdex/AndroidIDeditorV2/blob/main/WithoutReboot.md)
 
 ## Denial of responsibility
 
