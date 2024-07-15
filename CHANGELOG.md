@@ -1,3 +1,6 @@
+## 2.4
+- misc bug fixes
+
 ## 2.3
 - misc bug fixes
 
