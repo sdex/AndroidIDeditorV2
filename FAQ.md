@@ -7,4 +7,4 @@ The download link will be sent to the specified email after processing the trans
 - transactions with less than $3 will be ignored
 
 ### Change ID without reboot
-[Read here](WithoutRebbot.md)
+[Read here](WithoutReboot.md)
