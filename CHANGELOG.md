@@ -1,4 +1,5 @@
 ## 2.4
+- add an option to clear an app's data
 - misc bug fixes
 
 ## 2.3
