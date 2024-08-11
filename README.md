@@ -30,10 +30,6 @@ The demo app is available to check compatibility. \
 
 - [Change ID without reboot](https://github.com/sdex/AndroidIDeditorV2/blob/main/WithoutReboot.md)
 
-## Denial of responsibility
-
-Anything you do is at your own risk. No one else is responsible for any data loss, corruption, or damage to your device, including that which results from bugs in this software. There is a nonzero chance of any of these events happening due to using the tools or methods here. Always make backups. 
-
 ## Usage 
 
 See [Usage.md](Usage.md)
@@ -51,3 +47,6 @@ You can send an email from the app with the application logs, the `settings_ssai
 [Read and edit Android Binary XML (ABX) files](https://blog.sdex.dev/ABX/) \
 [XDA thread](https://xdaforums.com/t/android-8-0-root-android-device-id-shanger.3896146/)
 
+## Denial of responsibility
+
+Anything you do is at your own risk. No one else is responsible for any data loss, corruption, or damage to your device, including that which results from bugs in this software. There is a nonzero chance of any of these events happening due to using the tools or methods here. Always make backups. 
