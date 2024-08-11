@@ -4,6 +4,9 @@
 
 **The app supports all Android versions from 8 to 14**
 
+| ![Screenshot_20230225_081840.png](screenshots/Screenshot_20230225_081840.png) | ![Screenshot_20230225_083431.png](screenshots/Screenshot_20230225_083431.png) | ![Screenshot_20230225_083454.png](screenshots/Screenshot_20230225_083454.png) |
+|---|---|---|
+
 ## Get the app
 
 The app is available as a one-time purchase: 
