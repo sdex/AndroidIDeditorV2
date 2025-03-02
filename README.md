@@ -15,7 +15,7 @@ The app is available as a one-time purchase:
 
 The link to download the app will be sent to the specified email.
 
-Or subscribe to the Telegram channel:
+Or subscribe to the Telegram channel and download the app:
 - [open Telegram channel](https://t.me/+9y7jJGS5NM5iMTgy)
 
 ## Demo app
