@@ -1,3 +1,6 @@
+## 2.5
+- Android 15 compatibility
+
 ## 2.4
 - add an option to clear an app's data
 - misc bug fixes
