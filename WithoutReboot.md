@@ -2,7 +2,6 @@
 Changing ID without reboot works on **Android 10, 11, and 12**. \
 The build is distributed separately and costs 100 USD. 
 
-- [buymeacoffee.com](https://bit.ly/idchangernoreboot)
 - [BTC/ETH/USDT/USDC/other](https://pay.oxapay.com/12499691)
 
 The download link will be sent to the specified email after processing the transaction. Note: 
