@@ -10,7 +10,8 @@
 ## Get the app
 
 The app is available as a one-time purchase: 
-- [BTC/ETH/USDT/USDC/other](https://github.com/sdex/AndroidIDeditorV2/blob/main/FAQ.md#other-payment-methods)
+- [pay with crypto BTC/ETH/USDT/other](https://github.com/sdex/AndroidIDeditorV2/blob/main/FAQ.md#other-payment-methods)
+- [pay by card on buymeacoffee.com](http://bit.ly/3YKEt01)
 
 The link to download the app will be sent to the specified email.
 
