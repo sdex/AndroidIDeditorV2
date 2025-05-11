@@ -9,7 +9,7 @@
 
 ## Get the app
 
-The app is available as a one-time purchase: 
+The app is available as a one-time purchase for $3: 
 - [pay with crypto BTC/ETH/USDT/other](https://github.com/sdex/AndroidIDeditorV2/blob/main/FAQ.md#other-payment-methods)
 - [pay by card on buymeacoffee.com](http://bit.ly/3YKEt01)
 
