@@ -1,3 +1,7 @@
+## 2.6
+- add no reboot support for Android 12L (API 32)
+- misc bug fixes
+
 ## 2.5
 - Android 15 compatibility
 
