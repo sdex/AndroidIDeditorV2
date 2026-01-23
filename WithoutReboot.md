@@ -1,6 +1,7 @@
 ### Change ID without rebooting the device
 Changing ID without reboot works on **Android 10, 11, and 12**. \
-The build is distributed separately and costs 100 USD. 
+A new experimental solution works on Android 10-16. \
+The addon is distributed separately and costs 100 USD. 
 
 - [BTC/ETH/USDT/USDC/other](https://pay.oxapay.com/12499691)
 - [buymeacoffee.com](https://bit.ly/idchangernoreboot)
