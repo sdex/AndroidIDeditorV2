@@ -2,7 +2,9 @@
 
 **The Android application to change Android device ID values using root permission.**
 
-**The app supports all Android versions from 8 to 16**
+**The app supports Android versions from 8 to 16**
+
+**The plugin to apply changes without reboot supports Android versions from 10 to 16**
 
 | ![Screenshot_20230225_081840.png](screenshots/Screenshot_20230225_081840.png) | ![Screenshot_20230225_083431.png](screenshots/Screenshot_20230225_083431.png) | ![Screenshot_20230225_083454.png](screenshots/Screenshot_20230225_083454.png) |
 |---|---|---|
