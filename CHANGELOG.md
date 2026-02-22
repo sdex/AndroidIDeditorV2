@@ -1,3 +1,8 @@
+## 2.7
+- add support for Android 16
+- rework "no reboot" to support Android from 10 to 16
+- add multi-user support
+
 ## 2.6
 - add no reboot support for Android 12L (API 32)
 - misc bug fixes
