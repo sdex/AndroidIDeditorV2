@@ -2,14 +2,14 @@
 Changing ID without reboot works on **Android 10, 11, and 12**. \
 A new experimental solution works on Android 10-16. 
 
-The addon is distributed separately and costs 100 USD:
+The addon is distributed separately and costs 40 USD:
 
 - [BTC/ETH/USDT/USDC/other](https://pay.oxapay.com/12499691)
 - [buymeacoffee.com](https://bit.ly/idchangernoreboot)
 
 The download link will be sent to the specified email after processing the transaction. Note: 
 - The processing time may take up to 20 minutes
-- Transactions with less than 100 USDT are processed as a purchase of the standard version of the app
+- Transactions with less than 40 USDT are processed as a purchase of the standard version of the app
 
 After applying the new ID, the Device ID Changer makes a force-stop call on the target application, and usually, it's enough.
 However, some apps can save the ID in their storage; in this case, it might be necessary to clear the app's storage.
