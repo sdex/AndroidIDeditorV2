@@ -33,6 +33,7 @@ The demo app is available to check compatibility. \
 - Validate the ID to prevent a potential system corruption
 - Copy/Backup/Restore the device ID
 - Export the applications list with IDs to a CSV file
+- Multi-user support
 
 ## Extra features
 
