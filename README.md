@@ -17,7 +17,7 @@ The app is available as a one-time purchase for $3:
 
 The link to download the app will be sent to the specified email.
 
-Or subscribe to the Telegram channel to download the app:
+Or get the app using Telegram stars:
 - [open Telegram channel](https://t.me/+9y7jJGS5NM5iMTgy)
 
 ## Demo app
