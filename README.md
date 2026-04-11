@@ -39,15 +39,17 @@ The demo app is available to check compatibility. \
 
 - [Change ID without reboot](https://github.com/sdex/AndroidIDeditorV2/blob/main/WithoutReboot.md)
 
-## Usage 
+## Usage
 
 See [Usage.md](Usage.md)
 
-## Report an issue
+## Troubleshooting
 
-You can send an email from the app with the application logs, the `settings_ssaid.xml` file, and some device information that could help identify and fix the issue:
-1. Click on the three dots icon at the top right corner and then select "Report an issue". 
-2. Choose your email client, and write a message if you have something to add. 
+The app requires root permission; it won't work without it. 
+
+The only way to report the app's issue is to send a request from the app: 
+1. Click on the three dots icon at the top right corner and then select "Contact us". 
+2. Write a message describing the issue. 
 3. Send the email. 
 
 ## More information
@@ -58,4 +60,4 @@ You can send an email from the app with the application logs, the `settings_ssai
 
 ## Denial of responsibility
 
-Anything you do is at your own risk. No one else is responsible for any data loss, corruption, or damage to your device, including that which results from bugs in this software. There is a nonzero chance of any of these events happening due to using the tools or methods here. Always make backups. 
+Anything you do is at your own risk. No one else is responsible for any data loss, corruption, or damage to your device, including any resulting from bugs in this software. There is a nonzero chance that any of these events will happen due to using the tools or methods here. Always make backups. 
