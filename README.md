@@ -45,12 +45,7 @@ See [Usage.md](Usage.md)
 
 ## Troubleshooting
 
-The app requires root permission; it won't work without it. 
-
-The only way to report the app's issue is to send a request from the app: 
-1. Click on the three dots icon at the top right corner and then select "Contact us". 
-2. Write a message describing the issue. 
-3. Send the email. 
+See [Troubleshooting.md](Troubleshooting.md)
 
 ## More information
 
@@ -60,4 +55,4 @@ The only way to report the app's issue is to send a request from the app:
 
 ## Denial of responsibility
 
-Anything you do is at your own risk. No one else is responsible for any data loss, corruption, or damage to your device, including any resulting from bugs in this software. There is a nonzero chance that any of these events will happen due to using the tools or methods here. Always make backups. 
+Anything you do is at your own risk. No one else is responsible for any data loss, corruption, or damage to your device, including any resulting from bugs in this software. There is a nonzero chance that any of these events will occur as a result of using the tools or methods here. Always make backups. 
