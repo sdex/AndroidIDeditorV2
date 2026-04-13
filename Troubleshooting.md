@@ -8,3 +8,8 @@ The only way to report the issue is to send the app's logs from the app:
 
 | ![Screenshot_1775975036.png](screenshots/Screenshot_1775975036.png) | ![Screenshot_1775975045.png](screenshots/Screenshot_1775975045.png) |
 |---|---|
+
+### Changing the Android ID is not always enough
+
+The target app might use its own [device fingerprinting](https://github.com/fingerprintjs/fingerprintjs-android), but unfortunately, this is beyond the capabilities of "Device ID Changer". \
+The "Device ID Changer" changes the Android ID.
