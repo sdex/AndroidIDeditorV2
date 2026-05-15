@@ -1,3 +1,6 @@
+## 2.8 
+- fix saving the ID on some configurations
+
 ## 2.7
 - add support for Android 16
 - rework "no reboot" to support Android from 10 to 16
