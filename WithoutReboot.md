@@ -1,5 +1,5 @@
 ### Change ID without rebooting the device
-Changing ID without reboot works on **Android 10-16**. \
+Changing ID without reboot works on **Android 10-16**. 
 
 The addon is distributed separately and costs 40 USD:
 
