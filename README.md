@@ -13,7 +13,6 @@
 
 The app is available as a one-time purchase for $3: 
 - [pay with crypto](https://github.com/sdex/AndroidIDeditorV2/blob/main/FAQ.md#other-payment-methods)
-- [pay by card on buymeacoffee.com](https://buymeacoffee.com/sdex/e/116858)
 
 The link to download the app will be sent to the specified email.
 
@@ -30,7 +29,7 @@ The demo app is available to check compatibility. \
 - List all applications with their Device ID
 - Change the ID for a particular application
 - Built-in random ID generator
-- Validate the ID to prevent a potential system corruption
+- Validate the ID to prevent potential system corruption
 - Copy/Backup/Restore the device ID
 - Export the applications list with IDs to a CSV file
 - Multi-user support
