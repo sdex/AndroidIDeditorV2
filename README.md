@@ -11,10 +11,12 @@
 
 ## Get the app
 
-The app is available as a one-time purchase for $3: 
-- [pay with crypto](https://github.com/sdex/AndroidIDeditorV2/blob/main/FAQ.md#other-payment-methods)
+You can pay in any supported cryptocurrency equivalent to $3 or more: \
+[Open payment page](https://pay.oxapay.com/66497180/)
 
-The link to download the app will be sent to the specified email.
+We'll send the download link to the specified email address after we process the transaction. Note: 
+- Sometimes the processing time may take up to 20 minutes
+- Transactions with less than $3 will be ignored
 
 Or get the app using Telegram stars:
 - [open Telegram channel](https://t.me/+9y7jJGS5NM5iMTgy)
