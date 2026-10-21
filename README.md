@@ -6,7 +6,7 @@ Device ID Changer lists your apps with their Android IDs and lets you set a new 
 random one, back it up, and restore it. Since Android 8, each app gets its own ID, so you can change
 the ID one app sees without touching the others.
 
-| ![App list](screenshots/Screenshot_20230225_081840.png) | ![Editing an ID](screenshots/Screenshot_20230225_083431.png) | ![ID saved](screenshots/Screenshot_20230225_083454.png) |
+| ![App list](screenshots/Screenshot_1.png) | ![Editing an ID](screenshots/Screenshot_2.png) | ![Instant apply](screenshots/Screenshot_3.png) |
 |---|---|---|
 
 ## Download
