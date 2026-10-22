@@ -32,7 +32,7 @@ Release APKs are signed with this certificate (SHA-256):
 - Copy, back up, and restore IDs
 - Export the app list with IDs to a CSV file
 - Multi-user support
-- Instant Apply (paid add-on): the new ID takes effect without a reboot
+- Instant Apply (paid plugin): the new ID takes effect without a reboot
 
 ## Instant Apply
 
