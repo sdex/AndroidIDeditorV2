@@ -33,6 +33,7 @@ Release APKs are signed with this certificate (SHA-256):
 - Export the app list with IDs to a CSV file
 - Multi-user support
 - Instant Apply: the new ID takes effect without a reboot
+- Change IDs from Tasker, scripts or other apps, with Instant Apply: see [AUTOMATION.md](AUTOMATION.md)
 
 ## Instant Apply
 
