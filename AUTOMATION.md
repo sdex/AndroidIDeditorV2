@@ -31,7 +31,6 @@ Only `package_name` is required:
 | `instant_apply` | Boolean | `true` | Apply the ID right away, like the **Instant apply** switch. With `false`, the ID takes effect after the next reboot. |
 | `clear_app_data` | Boolean | `false` | Clear the app's data after applying the ID, like **Clear the app's data**. Works only with `instant_apply`. |
 | `user_id` | Integer | `0` | The Android user whose app changes, for a second user or a work profile. |
-| `skip_validation` | Boolean | `false` | Save `id` even if it fails the checks below, as tapping **Save** five times on an invalid ID does in the app. Use with care. |
 | `request_id` | String | none | Any text. It comes back with the answer, so you can match answers to requests. |
 | `callback` | PendingIntent | none | Also sends the answer here. See [From your own app](#from-your-own-app). |
 
