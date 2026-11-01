@@ -1,6 +1,6 @@
 # Device ID Changer for Android [ROOT]
 
-Change the Android ID of any app on a rooted device. Free, Android 8 to 16.
+Change the Android ID of any app on a rooted device.
 
 Device ID Changer lists your apps with their Android IDs and lets you set a new one, generate a
 random one, back it up, and restore it. Since Android 8, each app gets its own ID, so you can change
@@ -32,28 +32,25 @@ Release APKs are signed with this certificate (SHA-256):
 - Copy, back up, and restore IDs
 - Export the app list with IDs to a CSV file
 - Multi-user support
-- Instant Apply (paid plugin): the new ID takes effect without a reboot
+- Instant Apply: the new ID takes effect without a reboot
 
 ## Instant Apply
 
 A new ID normally needs a reboot. With Instant Apply it works as soon as you save it: only the app
-you changed is stopped, so it picks up the new ID while the rest of the phone keeps running. It's a
-one-time payment with no subscription. A license covers one device, and you can move it to a new
-phone.
+you changed is stopped, so it picks up the new ID while the rest of the phone keeps running.
 
 **[Get Instant Apply →](https://sdex.dev/id/)**
 
 ## Requirements
 
 - Root, for example Magisk. The app doesn't work without it.
-- Android 8 to 16 (Instant Apply: Android 10 to 16).
+- Android 8 or later.
 
 ## How to use
 
 1. Open the app and grant superuser access.
 2. Pick an app from the list.
-3. Enter a new ID or tap **Set Random ID**. An ID is 16 characters: digits and letters A to F, upper
-   or lower case.
+3. Enter a new ID or tap **Set Random ID**.
 4. Tap **Save**.
 5. Reboot for the new ID to take effect, or skip the reboot with Instant Apply.
 
@@ -78,7 +75,7 @@ Instant Apply, licenses, moving to a new phone, and troubleshooting are covered 
 
 ## Privacy
 
-- No ads, analytics, or tracking libraries.
+- The app doesn't show ads or include analytics or tracking libraries.
 - Instant Apply sends the license server only what it needs to tie the license to one device: the
   license key, a device key the app creates, a device hash, and the device model.
 - The app never sends logs on its own; you choose when to send them.
