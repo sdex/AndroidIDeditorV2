@@ -39,6 +39,9 @@ Release APKs are signed with this certificate (SHA-256):
 A new ID normally needs a reboot. With Instant Apply it works as soon as you save it: only the app
 you changed is stopped, so it picks up the new ID while the rest of the phone keeps running.
 
+- [Watch it in 50 seconds](https://youtu.be/Yr4Y9-B1S6A)
+- [Complete guide, from install to changing an ID (5 min)](https://youtu.be/1r_ccsPTWyk)
+
 **[Get Instant Apply →](https://sdex.dev/id/)**
 
 ## Requirements
