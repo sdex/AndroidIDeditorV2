@@ -60,15 +60,43 @@ Broadcast completed: result=-1, data="APPLIED", extras: Bundle[...]
 
 The same commands work in a root shell on the phone: `su -c 'am broadcast ...'`.
 
-### From Tasker, MacroDroid or Automate
+### From Tasker
 
-Use the app's send-intent or send-broadcast action with:
+Device ID Changer is a Tasker plugin, so Tasker doesn't need an intent or extras:
+
+1. In a task, add an action and choose **Plugin** → **Device ID Changer** → **Change an app's ID**.
+2. Tap the pencil next to **Configuration**. If the screen says **Allow other apps to change IDs**,
+   tap **Allow**.
+3. Pick the app with the list button, or type its package name. Leave **New ID** empty for a new
+   random ID on every run, or type an ID. Both fields also take Tasker variables, such as `%pkg`
+   or `%myid`.
+4. Set **Instant apply** and **Clear the app's data** as in the edit dialog, and tap **Save**.
+
+Tasker waits for the change to finish, up to the action's timeout, and then sets these variables
+for the following actions:
+
+| Variable | Value |
+|---|---|
+| `%new_id` | The ID that was saved, including a random one. Empty when nothing was saved. |
+| `%id_status` | `APPLIED`, `SAVED_REBOOT_REQUIRED`, `APPLY_FAILED` or `INVALID_REQUEST`, as in [The answer](#the-answer). |
+| `%id_error` | The `error` code from [The answer](#the-answer), such as `REQUESTS_DISABLED`. Empty on success. |
+| `%errmsg` | What went wrong, in words, when the action failed. |
+
+The action fails with `APPLY_FAILED` and `INVALID_REQUEST`. Tasker then stops the task and shows
+`%errmsg`, unless you check **Continue Task After Error** in the action.
+
+MacroDroid and Automate can use the same plugin, through their action for Tasker and Locale
+plugins.
+
+### With a send-intent action
+
+Without the plugin, use the automation app's send-intent or send-broadcast action with:
 
 - Action: `dev.sdex.idv2.action.CHANGE_ID`
 - Package: `dev.sdex.idv2`
 - Target: broadcast receiver
-- Extras: `package_name` and any others from the table. In Tasker, write each one as
-  `name:value`, for example `package_name:com.example.app`.
+- Extras: `package_name` and any others from the table. In Tasker's **Send Intent**, write each
+  one as `name:value`, for example `package_name:com.example.app`.
 
 ### From your own app
 
