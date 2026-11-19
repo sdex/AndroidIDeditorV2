@@ -36,17 +36,17 @@ Release APKs are signed with this certificate (SHA-256):
 
 ## Instant Apply
 
-A new ID normally needs a reboot. With Instant Apply it works as soon as you save it: only the app
+A new ID normally needs a reboot. With Instant Apply, it works as soon as you save it: only the app
 you changed is stopped, so it picks up the new ID while the rest of the phone keeps running.
 
 - [Watch it in 50 seconds](https://youtu.be/Yr4Y9-B1S6A)
 - [Complete guide, from install to changing an ID (5 min)](https://youtu.be/1r_ccsPTWyk)
 
-**[Get Instant Apply →](https://sdex.dev/id/)**
+**[Get Instant Apply →](https://sdex.dev/iap/)**
 
 ## Requirements
 
-- Root, for example Magisk. The app doesn't work without it.
+- Root, for example, Magisk. The app doesn't work without it.
 - Android 8 or later.
 
 ## How to use
@@ -74,7 +74,7 @@ Restore it from a backup, or uninstall that app, reboot, and install it again: A
 ID from the app's signature, so you get the original ID back.
 
 Instant Apply, licenses, moving to a new phone, and troubleshooting are covered in the
-[full FAQ](https://sdex.dev/id/faq.html).
+[full FAQ](https://sdex.dev/iap/faq.html).
 
 ## Privacy
 
@@ -83,12 +83,12 @@ Instant Apply, licenses, moving to a new phone, and troubleshooting are covered 
   license key, a device key the app creates, a device hash, and the device model.
 - The app never sends logs on its own; you choose when to send them.
 
-Details: [Privacy Policy](https://sdex.dev/id/privacy.html)
+Details: [Privacy Policy](https://sdex.dev/iap/privacy.html)
 
 ## Terms
 
 The app is provided as is, free, and without any guarantees or support. \
 It edits system files with root, so you use it at your own risk: always make backups.
 
-Instant Apply is sold under the [Terms of Service](https://sdex.dev/id/terms.html): buying or
+Instant Apply is sold under the [Terms of Service](https://sdex.dev/iap/terms.html): buying or
 activating a license means agreeing to them.
