@@ -67,7 +67,7 @@ then come back to Device ID Changer. Apps that never read the ID never appear.
 **Why does an app still see its old ID?** \
 Some apps keep their own copy of the ID, so their data has to be cleared too. With Instant Apply,
 turn on **Clear the app's data** before you tap **Save**: Device ID Changer applies the new ID first,
-then clears that app's data. Only the Android ID changes: apps that use other device fingerprinting 
+then clears that app's data. Only the Android ID changes: apps that use other device fingerprinting
 signals can still recognize the device.
 
 **How do I restore an app's original ID?** \
