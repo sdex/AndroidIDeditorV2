@@ -1,12 +1,13 @@
 # Device ID Changer for Android [ROOT]
 
-Change the Android ID of any app on a rooted device.
+Change the Android ID of any app on a rooted device, with or without a reboot.
 
-Device ID Changer lists your apps with their Android IDs and lets you set a new one, generate a
-random one, back it up, and restore it. Since Android 8, each app gets its own ID, so you can change
-the ID one app sees without touching the others.
+Device ID Changer lists your apps with their Android IDs (SSAID) and lets you set a new one,
+generate a random one, back it up, and restore it. Since Android 8, each app gets its own ID, so you
+can change the ID one app sees without touching the others. It works with Magisk, KernelSU and
+APatch.
 
-| ![App list](screenshots/Screenshot_1.png) | ![Editing an ID](screenshots/Screenshot_2.png) | ![Instant apply](screenshots/Screenshot_3.png) |
+| ![Device ID Changer app list showing each app's Android ID](screenshots/Screenshot_1.png) | ![Changing an app's Android ID in Device ID Changer](screenshots/Screenshot_2.png) | ![Instant Apply changing an Android ID without a reboot](screenshots/Screenshot_3.png) |
 |---|---|---|
 
 ## Download
@@ -38,7 +39,8 @@ Release APKs are signed with this certificate (SHA-256):
 ## Instant Apply
 
 A new ID normally needs a reboot. With Instant Apply, it works as soon as you save it: only the app
-you changed is stopped, so it picks up the new ID while the rest of the phone keeps running.
+you changed is stopped, so it picks up the new ID while the rest of the phone keeps running. See
+[how to change the Android ID without a reboot](WithoutReboot.md).
 
 - [Watch it in 50 seconds](https://youtu.be/Yr4Y9-B1S6A)
 - [Complete guide, from install to changing an ID (5 min)](https://youtu.be/1r_ccsPTWyk)
@@ -74,8 +76,9 @@ signals can still recognize the device.
 Restore it from a backup, or uninstall that app, reboot, and install it again: Android derives the
 ID from the app's signature, so you get the original ID back.
 
-Instant Apply, licenses, moving to a new phone, and troubleshooting are covered in the
-[full FAQ](https://sdex.dev/iap/faq.html).
+Instant Apply, licenses, and moving to a new phone are covered in the
+[full FAQ](https://sdex.dev/iap/faq.html). For errors and setup problems, see
+[Troubleshooting](Troubleshooting.md).
 
 ## Privacy
 
