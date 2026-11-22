@@ -7,7 +7,7 @@ generate a random one, back it up, and restore it. Since Android 8, each app get
 can change the ID one app sees without touching the others. It works with Magisk, KernelSU and
 APatch.
 
-| ![Device ID Changer app list showing each app's Android ID](screenshots/Screenshot_1.png) | ![Changing an app's Android ID in Device ID Changer](screenshots/Screenshot_2.png) | ![Instant Apply changing an Android ID without a reboot](screenshots/Screenshot_3.png) |
+| ![Device ID Changer app list showing each app's Android ID](screenshots/Screenshot_1.png) | ![Changing an app's Android ID in Device ID Changer](screenshots/Screenshot_2.png) | ![Instant Apply screen showing the plugin is active](screenshots/Screenshot_3.png) |
 |---|---|---|
 
 ## Download
